@@ -100,7 +100,7 @@ keyPressed = e.keyCode;
 	}
 	if (keyPressed == "72" && DUCK.length == 7 && DUCK[0] == "K" && DUCK[1] == "A" && DUCK[2] == "U" && DUCK[3] == "S" && DUCK[4] == "T" && DUCK[5] == "U" && DUCK[6] == "B")
 	{
-		DUCK.push("B");
+		DUCK.push("H");
 		console.log("8 of 8 Locks");
 		Activate();
 	}
